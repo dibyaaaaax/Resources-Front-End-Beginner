@@ -80,6 +80,7 @@ I'm using some emoticons to give you more information about these links.
   * 🇫🇷 [Tutoriels web HTML - Alsacréations](https://www.alsacreations.com/tuto/liste/1-HTML) 🆓
   * 🇫🇷 [HTML et CSS - Le Cours Complet - Udemy](https://www.udemy.com/cours-html-css/) 💰
   * [HTML5 Tutorial - w3schools](https://www.w3schools.com/html/) 🆓
+  * [Introduction to HTML](https://scrimba.com/g/ghtml)🆓
 
 * Documentation
   * [HTML Reference](http://htmlreference.io/) 🔝
@@ -119,6 +120,7 @@ I'm using some emoticons to give you more information about these links.
   * 🇫🇷 [Tutoriel CSS : Comment bien organiser son CSS - Grafikart](https://www.youtube.com/watch?v=t8Up7GiNIoU) 🆓 📹
   * 🇫🇷 [Tutoriels web CSS - Alsacréations](https://www.alsacreations.com/tuto/liste/2-CSS) 🆓
   * [CSS Tutorial - w3schools](https://www.w3schools.com/css/) 🆓
+  * [Introduction to CSS](https://scrimba.com/g/gintrotocss) 🆓
   * [Learn CSS - Sololearn](https://www.sololearn.com/Course/CSS/)
     * Selectors
       * [CSS Diner](https://flukeout.github.io/) 🆓 🔝
@@ -183,6 +185,7 @@ I'm using some emoticons to give you more information about these links.
   * [JavaScript Tutorial - w3schools](https://www.w3schools.com/js/) 🆓
   * [Javascript Tutorial - Watch and Code by Gordon Zhu](https://watchandcode.com/) 🆓💰
   * [Learn Javascript](https://www.sololearn.com/Course/JavaScript/)
+  * [Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript/) 🆓
 
 * Documentation
   * [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
